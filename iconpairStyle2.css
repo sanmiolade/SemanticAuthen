@@ -1,0 +1,147 @@
+    .MainBox{
+	width: auto;
+	height: auto;
+	border: 0px solid #c0c0c0;
+	background: white;
+	text-align: center;
+	color: orange;
+	margin-top: 5px;
+	margin-right:25px;
+	margin-bottom:20px;
+
+}
+    .pairBoxL{
+	background: lightyellow;
+
+}
+
+    .pairBoxR{
+	background: cyan;
+}
+
+.pairbox{    
+   
+	width: 75px;
+	height: 75px;	
+	text-align: center;
+	margin: 5px 2px 5px 2px;	 
+    float:left;
+    display:inline;
+    border: 1px dotted blue;
+	background-color: #ebebeb;	
+	margin: 0px 0px 0px 0px;
+
+}
+
+.pairboxx{    
+   
+	width: 75px;
+	height: 75px;	
+	text-align: center;
+	margin: 5px 2px 5px 2px;	 
+    float:left;
+    display:inline;
+    border: 1px dotted blue;
+	background-color: yellow;	
+	margin: 0px 0px 0px 0px;
+
+}
+
+
+.dropfamily{
+	
+	width: 75px;
+	height: 75px;	
+	text-align: center;
+	margin: 5px 2px 5px 2px;	 
+    float:left;
+    display:inline;
+    border: 1px dotted blue;	
+	margin: 0px 0px 0px 0px;	
+	background-color: yellow;
+}
+
+.pairbox:hoverx{
+    background-color: cyan; //#f9f9f9;
+}
+
+.pairbox img{  
+
+ margin-top:0px    
+}
+
+
+
+.pairboxtable{
+	border-collapse: collapse;
+ border: 0px solid black;
+	width: auto;
+	margin-top: -5px; 
+   margin-bottom: -5px; 
+}
+
+#icontable {
+   
+    width: auto;
+   border: 0px solid black;
+  border-spacing: 10px 3px;
+	margin-top: -15px; 
+   margin-bottom: -5px; 
+    }
+    
+
+    
+.iconlist { 
+  border: 2px solid #ebebeb;
+  height: 64px;
+  width: 64px;	
+} 
+
+
+
+.iconlist:hover { 
+  border: 2px dashed black; 
+}     
+
+.submitbutn {
+	font: 100% Calibri, Verdana, "Trebuchet MS", tahoma;
+	color: #FFFFFF;	
+	font-weight: bold;
+	background-color: #008000;
+	
+}
+
+
+.mainTable {
+	border: 16px solid #C0c0c0;
+	float: right;
+}
+
+table#pwdgridtable {    
+    border-collapse: collapse;   
+}
+#pwdgridtable th, #pwdgridtable td {
+    border: 0px solid orange;
+    padding: 0px;
+    text-align: left;
+  }
+  
+#pwdgridtable dixv {
+	border: 1px dotted blue;
+	background-color: #ebebeb;	
+	margin: 0px 0px 0px 0px;
+	} 
+	
+	
+	
+#videobox {
+	height: 535px;
+	width: 325px;
+	background-color: #06e7f9;	
+	display:inline;
+	float: left;
+	text-align: center;	
+	font-size: large;
+	font-weight: bold;
+
+}
